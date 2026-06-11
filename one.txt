@@ -1,0 +1,46 @@
+Java is a high-level, object-oriented programming language developed by James Gosling at Oracle Corporation.
+Platform Independent – Java follows "Write Once, Run Anywhere" (WORA).
+JVM (Java Virtual Machine) executes Java bytecode on any platform.
+JDK (Java Development Kit) contains tools needed to develop Java applications.
+JRE (Java Runtime Environment) provides libraries and JVM required to run Java programs.
+Java is Object-Oriented, supporting:
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+Class is a blueprint for creating objects.
+Object is an instance of a class.
+Constructor is used to initialize objects.
+Method Overloading allows multiple methods with the same name but different parameters.
+Method Overriding allows a subclass to provide its own implementation of a parent method.
+Inheritance enables code reusability between classes.
+Polymorphism allows one interface to represent different implementations.
+Abstraction hides implementation details and exposes only essential functionality.
+Encapsulation protects data by making fields private and accessing them through methods.
+Exception Handling uses:
+try
+catch
+finally
+throw
+throws
+Collections Framework provides data structures such as:
+ArrayList
+LinkedList
+HashSet
+HashMap
+TreeMap
+ArrayList uses a dynamic array and provides fast random access.
+HashMap stores key-value pairs and offers O(1) average lookup time.
+Multithreading allows multiple tasks to execute concurrently.
+Thread Creation Methods:
+Extending Thread class
+Implementing Runnable interface
+Using ExecutorService
+Java 8 Features:
+Lambda Expressions
+Stream API
+Functional Interfaces
+Optional Class
+Stream API simplifies data processing with operations like filter(), map(), and collect().
+Garbage Collection automatically manages memory by removing unused objects.
+Spring Boot is the most popular Java framework for building microservices and enterprise applications, offering embedded servers, auto-configuration, and REST API development.
