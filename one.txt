@@ -32,6 +32,8 @@ TreeMap
 ArrayList uses a dynamic array and provides fast random access.
 HashMap stores key-value pairs and offers O(1) average lookup time.
 Multithreading allows multiple tasks to execute concurrently.
+Java – A high-level, object-oriented programming language used for building enterprise applications.
+JDK – A toolkit containing the compiler, JVM, and development tools.
 Thread Creation Methods:
 Extending Thread class
 Implementing Runnable interface
