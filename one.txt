@@ -36,6 +36,8 @@ Java – A high-level, object-oriented programming language used for building en
 JDK – A toolkit containing the compiler, JVM, and development tools.
 JRE – Provides the environment required to run Java applications.
 JVM – Executes Java bytecode and makes Java platform-independent.
+HashMap – Stores key-value pairs with fast retrieval.
+HashSet – Stores unique elements without maintaining insertion order.
 Thread Creation Methods:
 Extending Thread class
 Implementing Runnable interface
