@@ -34,6 +34,8 @@ HashMap stores key-value pairs and offers O(1) average lookup time.
 Multithreading allows multiple tasks to execute concurrently.
 Java – A high-level, object-oriented programming language used for building enterprise applications.
 JDK – A toolkit containing the compiler, JVM, and development tools.
+JRE – Provides the environment required to run Java applications.
+JVM – Executes Java bytecode and makes Java platform-independent.
 Thread Creation Methods:
 Extending Thread class
 Implementing Runnable interface
